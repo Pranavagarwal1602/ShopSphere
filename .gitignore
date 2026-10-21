@@ -1,0 +1,30 @@
+target/
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual Machines
+hs_err_pid*
+replay_pid*
+
+# IDE & Editor Files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
